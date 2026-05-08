@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+python-multipart
+pydantic
+pdfplumber
+sentence-transformers
+faiss-cpu
+tqdm
+python-dotenv
+google-generativeai
+requests
